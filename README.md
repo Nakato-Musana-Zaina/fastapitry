@@ -1,0 +1,2 @@
+##Methods
+Put, Post, Get
